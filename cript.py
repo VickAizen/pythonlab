@@ -49,3 +49,5 @@ def main():
     print("Sua frase traduzida e: ")
     print(determinaMensagem(opcao, mensagem, chave))
 main()
+
+# END OF CODE !!!
