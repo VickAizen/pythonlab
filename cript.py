@@ -1,3 +1,5 @@
+# Add on Github 29/11/2022
+# Codificador e decodificador de caracteres
 def determinaOpcao():
     #Funcao que determina d ou f, e garante loop
     while True:
